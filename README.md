@@ -3,7 +3,11 @@
 
 
 ## Hello!
-My name is Gabriel, aka Gabu, i'm 22 years old and i love to develop creative projects that activates my hiperfocus like RPG systems and whatever involving Pokemon, not limited to that. 
+My name is Gabriel, also known as Gabu. I’m 22 years old and passionate about bringing creative ideas to life through structured and innovative projects. I enjoy developing RPG systems, exploring fantasy worlds, and working on unique game mechanics, always seeking ways to combine creativity with logic.
+
+Beyond gaming, I’m deeply interested in technology and generative AI, especially how it can be applied to interactive systems. I thrive when working on projects that trigger my hyperfocus, allowing me to dive deep, plan thoroughly, and build with attention to detail.
+
+I like to balance imagination with pragmatism: whether it’s designing a magic-based RPG, optimizing processes, or experimenting with AI-driven simulations, my goal is always to create experiences that are engaging, meaningful, and well-structured. 
 
 
 </div>
