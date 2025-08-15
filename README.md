@@ -12,7 +12,7 @@ I like to balance imagination with pragmatism: whether it’s designing a magic-
 
 </div>
 
-<img align="right" width="400px" src="https://i.imgur.com/zMj5Lao.gif" />
+<img align="right" width="400px" src="https://i.imgur.com/zMj5Lao.gif"/>
 
 ## Technologies and Tools:
  
