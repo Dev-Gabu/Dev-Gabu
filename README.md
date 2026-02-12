@@ -19,7 +19,7 @@ I like to balance imagination with pragmatism: whether it’s designing a magic-
  <code><img width="40px" src="https://icon.icepanel.io/Technology/svg/Python.svg" title = "Python"/></code>
  <code><img width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" title="Django"/></code>
  <code><img width="40px" src="https://icon.icepanel.io/Technology/svg/Figma.svg" title = "Figma"/></code>
- <code><img width="40px" src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" title = "Godot"/></code>
+ <code><img width="40px" src="https://www.svgrepo.com/show/373618/gamemaker2.svg" title = "Gamemaker"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 
 ## Social Networks:
